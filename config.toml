@@ -1,0 +1,9 @@
+baseURL = "https://www.xxxlbox.com"
+title = "Praxis Academy"
+languageCode = "id-id"
+
+# theme to use (located by default in /themes/THEMENAME/)
+themesDir = "themes"
+theme = "hermit"
+
+logo= "tn.png"
