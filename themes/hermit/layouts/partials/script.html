@@ -1,0 +1,13 @@
+<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+<script>
+    function toggleMenu (menu) {
+        const navbarMenu = document.getElementById(menu);
+
+        if (navbarMenu.classList.contains('is-active')) {
+            navbarMenu.className = navbarMenu.className.split(' ').filter((c) => c !== 'is-active').join();
+        } else {
+            navbarMenu.className += ' is-active';
+        }
+    }
+</script>
