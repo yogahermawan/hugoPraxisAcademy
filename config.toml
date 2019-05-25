@@ -4,6 +4,10 @@ title = "Praxis Academy"
 languageCode = "id-id"
 defaultContentLanguage = "id"
 theme = "hermit"
+
+watch = true
+disableFastRender = true
+
 # enableGitInfo = true
 pygmentsCodefences  = true
 pygmentsUseClasses  = true
