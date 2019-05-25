@@ -1,4 +1,5 @@
-baseURL = "https://www.xxxlbox.com"
+baseURL = "http://localhost:8080"
+
 title = "Praxis Academy"
 languageCode = "id-id"
 
